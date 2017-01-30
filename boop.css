@@ -4,7 +4,8 @@ a:hover{color:#df73ff;}
 body {background-image: url("http://www.407bugfree.com/images/insects/snakes.jpg");}
 h2 {font-family: "Verdana", sans-serif;}
 h2 {text-align: center;}
-<div> {width: 300px;
+div {width: 300px;
     border: 25px solid green;
     padding: 25px;
     margin: 25px;}
+li {display: inline;}
