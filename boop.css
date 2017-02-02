@@ -4,15 +4,12 @@ a:hover{color:#df73ff;}
 body {background-image: url("http://www.407bugfree.com/images/insects/snakes.jpg");}
 h2 {font-family: "Verdana", sans-serif;}
 h2 {text-align: center;}
-div {border: 40px solid #e9d66b;
-    padding: 100px;
-    margin: 25px;}
+div
 li {display: inline;}
 ul {list-style-type: none;
     margin: 0;
     padding: 0;
-    overflow: hidden;
-    background-color: #333;}
+    overflow: hidden;}
 
 li {float: left;}
 
