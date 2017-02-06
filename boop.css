@@ -5,6 +5,9 @@ body {background-image: url("http://www.407bugfree.com/images/insects/snakes.jpg
 h2 {font-family: "Verdana", sans-serif;}
 h2 {text-align: center;}
 div
+    {padding: 10px;
+    border: 5px solid #004242;
+    margin: 0;}
 li {display: inline;}
 ul {list-style-type: none;
     margin: 0;
